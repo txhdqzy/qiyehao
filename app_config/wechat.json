@@ -1,0 +1,15 @@
+{
+  "app_key": {
+    "corpid": "wx400acd664197d6b9",
+    "corpsecret": "DgsoMmvNdshXpELmbhsx4-MEPBxl3ypgjl_UGkNVS_Vlva7VPsB-gDKWfNL-bY10"
+  },
+  "wechat_url": {
+    "getAcessToken": "https://qyapi.weixin.qq.com/cgi-bin/gettoken",
+    "getDeptList": "https://qyapi.weixin.qq.com/cgi-bin/department/list",
+    "getAllUser": "https://qyapi.weixin.qq.com/cgi-bin/user/simplelist",
+    "sendMessage": "https://qyapi.weixin.qq.com/cgi-bin/message/send"
+
+    ,"getDevices":"https://api.weixin.qq.com/shakearound/device/bindlocation"
+  },
+  "testToken": "4hcHB_XflZOoKeWOESaH8t6Je5dPDX_F1jzEVkevcmuHeq17niu_cN0ig1q1V80ElbJs6WiWr9SeOcpjN6jIZQ"
+}
